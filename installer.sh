@@ -4,11 +4,11 @@
 #
 echo " download and install plugin xstreamity "
 ################################################################################
-version=3.52
+version=3.54
 OPKGINSTALL=opkg install --force-overwrite
 MY_URL="https://raw.githubusercontent.com/emil237/xtreamity/main"
-MY_IPK="enigma2-plugin-extensions-xstreamity_3.52_all.ipk"
-MY_DEB="enigma2-plugin-extensions-xstreamity_3.52_all.deb"
+MY_IPK="xstreamity_3.54_all.ipk"
+MY_DEB="xstreamity_3.54_all.deb"
 ##############################################################################
 # remove old plugin #
 opkg remove enigma2-plugin-extensions-xstreamity
@@ -50,6 +50,8 @@ echo "**************************************************************************
 wait
 killall -9 enigma2
 exit 0
+
+
 
 
 
