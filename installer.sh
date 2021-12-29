@@ -4,7 +4,7 @@
 #
 echo " download and install plugin xstreamity "
 ################################################################################
-version=3.55
+version=3.56
 OPKGINSTALL=opkg install --force-overwrite
 MY_URL="https://raw.githubusercontent.com/emil237/xtreamity/main"
 MY_IPK="xstreamity_3.56_all.ipk"
@@ -50,6 +50,7 @@ echo "**************************************************************************
 wait
 killall -9 enigma2
 exit 0
+
 
 
 
