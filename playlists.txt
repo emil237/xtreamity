@@ -13,3 +13,9 @@ http://tptv.cz/get.php?username=A444987DF94A289&password=mvCGLSHV8A&type=m3u
 http://tptv.cz/get.php?username=7238680394D366F&password=BJcHsrEZKg&type=m3u
 http://m1.webvps.de:25443/get.php?username=V7sGhTrHHi5a&password=ACmx0Bnv7R&type=m3u_plus
 http://m1.webvps.de:25443/get.php?username=V7sGhTrHHi5a&password=ACmx0Bnv7R&type=m3u_plus
+http://ipc.proipciptv.com:8000/get.php?username=PZwDAJTDXA&password=K5aEPBLxTt&type=m3u_plus
+http://hellohelios.crabdance.com:80/get.php?username=9ESUdOYO9Y&password=bugSyNm4q4&type=m3u_plus 
+http://d8380c4177d6.sn.mynetname.net:25461/get.php?username=demo&password=demo&type=m3u_plus 
+http://aziptv.ddns.net:6969/get.php?username=kqyrshlirskype&password=CfDYbZNQQ8&type=m3u_plus
+http://arabicsawa.xyz:25461/get.php?username=SAWAIPTV&password=Kemo4511214&type=m3u_plus
+http://stop.next-code.xyz:2052/get.php?username=barshad&password=kjgfd6661ah&type=m3u_plus
