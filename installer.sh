@@ -10,7 +10,7 @@
 ###########################################
 # Configure where we can find things here #
 TMPDIR='/tmp'
-VERSION='3.70'
+VERSION='3.71'
 PACKAGE='enigma2-plugin-extensions-xstreamity'
 MY_URL='https://raw.githubusercontent.com/emil237/xtreamity/main'
 
