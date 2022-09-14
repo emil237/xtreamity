@@ -10,7 +10,7 @@
 ###########################################
 # Configure where we can find things here #
 TMPDIR='/tmp'
-VERSION='3.71'
+VERSION='3.72'
 PACKAGE='enigma2-plugin-extensions-xstreamity'
 MY_URL='https://raw.githubusercontent.com/emil237/xtreamity/main'
 
@@ -135,8 +135,8 @@ if [ $OSTYPE = "Opensource" ]; then
     $OPKGINSTAL $TMPDIR/${PACKAGE}_${VERSION}_all.ipk
 else
     echo "Insallling xstreamity plugin Please Wait ......"
-    wget $MY_URL/${PACKAGE}_${VERSION}.deb -qP $TMPDIR
-    $DPKINSTALL $TMPDIR/${PACKAGE}_${VERSION}.deb; $OPKGINSTAL -f -y 
+    wget $MY_URL/${PACKAGE}_${VERSION}_all.deb -qP $TMPDIR
+    $DPKINSTALL $TMPDIR/${PACKAGE}_${VERSION}_all.deb; $OPKGINSTAL -f -y 
 fi
 
 ##################################
